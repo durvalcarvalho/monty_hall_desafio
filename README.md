@@ -9,4 +9,8 @@ Tipos de simulação:
 1. Sem trocar a porta
 2. Trocando a porta
 
+<<<<<<< HEAD
 Inicialmente o programa irá rodar no prompt de comando, após a implementação total, será analisado se será desenvolvido uma interface
+=======
+Inicialmente o programa irá rodar no prompt de comando, após a implementação total, será analisado se será desenvolvido uma interface
+>>>>>>> 8ca9804047916a8390b93d25089fd0d248864f98
