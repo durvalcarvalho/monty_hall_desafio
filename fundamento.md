@@ -9,7 +9,7 @@ Já no segundo caso o 'jogador' sempre irá trocar a primeira escolha após o ap
 
 Atualmente, o programa está implementado para receber uma quantidade de simulações e realizar todo os calculos, para enfim apresentar a probabilidade de acertos e erros de cada um dos casos diferentes.
 
-As próximas funcionalidades que irei implementar são:
+As próximas funcionalidades que serão implementar são:
 1. Permitir que o usuário escolha a porta inicialmente, e apresentar a posibilidade de troca.
 2. Implementar uma interface gráfica ao programa que mostre as portas
-3. ?
+3. ...
